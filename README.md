@@ -22,12 +22,16 @@ INFORMAÇÕES RELEVANTES
 
 Informações sensíveis(senhas, IPs, etc) estão em  **puppet/hieradata**
 IP localhost virtualbox: 127.0.0.1
+
   Porta 2200: SSH AdminServer
     vagrant-vagrant
-  Porta 2201: SSH Node1
+
+  Porta 2201: SSH Node1  
     vagrant-vagrant
 
 IP AdminServer: 10.10.10.10
+
   Porta 7001: Console WLS
     weblogic-weblogic1
+    
 IP Node1: 10.10.10.100
